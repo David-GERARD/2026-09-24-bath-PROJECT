@@ -1,18 +1,10 @@
-"""Practice entrypoint for GDP subset exercises."""
+#TODO: add Google-Style docsting here
 
 import pandas as pd
 
 
 def get_subset_of_gdp_data(countries, years):
-    """Return a subset of GDP data for selected countries and years.
-
-    Args:
-        countries: Country names to include.
-        years: Year values to include.
-
-    Returns:
-        None while the exercise implementation is pending.
-    """
+    #TODO: add Google-Style docsting here
     _ = pd
     _ = countries
     _ = years
