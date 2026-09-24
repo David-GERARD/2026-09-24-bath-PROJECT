@@ -1,19 +1,11 @@
-"""GDP data helper module."""
+#TODO: add Google-Style docsting here
 
 import argparse
 import pandas as pd
 
 
 def get_subset_of_gdp_data(countries, years):
-    """Get a subset of GDP data for selected countries and years.
-
-    Args:
-        countries: Country names to filter.
-        years: Years to filter.
-
-    Returns:
-        None
-    """
+    #TODO: add Google-Style docsting here
     _ = pd
     _ = countries
     _ = years
