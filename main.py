@@ -6,9 +6,9 @@ import pandas as pd
 
 def get_subset_of_gdp_data(countries, years):
     #TODO: add Google-Style docsting here
-    _ = pd
-    _ = countries
-    _ = years
+    #TODO: load data, select countries, select years based on column name
+    #TODO: what to do when country does not exist?
+    #TODO: what to do when year not in data?
     return None
 
 
